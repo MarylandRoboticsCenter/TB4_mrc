@@ -1,4 +1,4 @@
-Docker image for working with Turtlebot4. The image is based on Ubuntu 22.04.
+Docker image for working with Turtlebot4. The image is based on Ubuntu 24.04.
 
 * Build ROS2 Humble docker image (run the command from the `docker` folder):
     ```
