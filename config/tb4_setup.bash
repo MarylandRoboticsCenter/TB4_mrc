@@ -4,7 +4,7 @@ export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 export ROS_SUPER_CLIENT=True
 
 # !!!important!!! for TB4_1
-export ROS_DISCOVERY_SERVER=";192.168.79.228:11811;"
+export ROS_DISCOVERY_SERVER="192.168.79.228:11811;"
 
 # # !!!important!!! for TB4_2
 # export ROS_DISCOVERY_SERVER=";192.168.79.215:11888;"
